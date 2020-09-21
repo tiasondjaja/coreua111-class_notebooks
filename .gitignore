@@ -3,8 +3,9 @@
 # lesson03/
 # lesson04/
 lesson05/
-lesson06/
-lesson07/
+# lesson06/
+# lesson07/
+lesson07/images
 lesson08/
 lesson09/
 lesson10/
@@ -22,6 +23,7 @@ lesson20/
 *.pdf
 *.gz
 *.tex
+*.cls
 *-notes.ipynb
 .ipynb_checkpoints/
 *.html
