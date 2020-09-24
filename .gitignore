@@ -27,3 +27,4 @@ lesson20/
 *-notes.ipynb
 .ipynb_checkpoints/
 *.html
+*.sty
