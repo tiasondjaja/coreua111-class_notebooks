@@ -1,7 +1,6 @@
 # coreua111
 
-This coreua111-class_notebooks folder contains Jupyter notebooks used during lectures.  
+This repository contains notebooks for lecture demonstrations in the course **NYU Core UA 111: From Data to Discovery** (for student use; distributed using nbgitpuller links shared in course LMS)
 
-You can follow along and modify the notebooks (for example, you can add new code, your personal notes, new code/markdown cells, etc.).  The changes you  made will be saved.  If I updated my notebook "template", then your changes and my changes will be merged.  In particular, changes you made will be kept.
-
-The folder shared/class_notebooks also contains Jupyter notebooks used during lectures. However, you cannot modify the notebooks in this folder.
++ For enrolled students: Completed notebooks can be found via course JupyterHub
++ Lecture notes can be found on NYU Classes (for enrolled students) or in this [Google Drive](https://drive.google.com/drive/folders/1-YRnuyhIsLEySqb-g39Q46EUhNKHrtL0?usp=sharing)
